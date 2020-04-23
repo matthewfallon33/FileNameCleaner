@@ -1,5 +1,5 @@
 # FileNameCleaner
-Java program which removes both '()' and '[]' brackets from filenames.
+Command line program which removes both '()' and '[]' brackets from filenames.
 
 Some example strings of which the program will work on...
 
@@ -20,3 +20,8 @@ Some example strings of which the program will work on...
 <b>Result:</b> - Rihanna - Disturbia
 
 <a href="fileCleaner.exe" download>Click to Download</a>
+
+<h1>Usage</h1>
+
+<p>Open the command line in the same directory of the fileCleaner application and type 'filecleaner path/to/folder'</p>
+<p>The program will proceed to remove all brackets from all the filenames in the directory</p>
