@@ -18,3 +18,5 @@ Some example strings of which the program will work on...
 "Rihanna - Disturbia (Official Video) (Out Now!)[Hola]"
 <br>
 <b>Result:</b> - Rihanna - Disturbia
+
+<a href="fileCleaner.exe" download>Click to Download</a>
