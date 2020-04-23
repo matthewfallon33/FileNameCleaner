@@ -19,8 +19,7 @@ Some example strings of which the program will work on...
 <br>
 <b>Result:</b> - Rihanna - Disturbia
 
-<a download="fileCleaner.exe" title="Download fileCleaner">
-Click to Download</a>
+<a href="fileCleaner.exe" download>Click to Download</a>
 
 <h1>Usage</h1>
 
